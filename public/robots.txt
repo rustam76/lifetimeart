@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://lifetimeart.co.uk
+
+# Sitemaps
+Sitemap: https://lifetimeart.co.uk/sitemap.xml
+Sitemap: https://lifetimeart.co.uk/server-sitemap.xml
