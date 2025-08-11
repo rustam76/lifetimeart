@@ -143,6 +143,7 @@ const AboutUs = () => {
 
   return (
     <section
+      id="about"
       ref={sectionRef}
       className="relative w-full bg-white text-gray-900 py-24"
     >
